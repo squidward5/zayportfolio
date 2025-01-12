@@ -1,1 +1,1 @@
-A portfolio made with HTML and CSS based on a site called guns.lol
+A portfolio made with HTML, CSS, and JS based on a site called guns.lol
